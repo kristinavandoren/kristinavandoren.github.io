@@ -14,3 +14,10 @@ h1{
 body{
   background-color: #e6ffff;
 }
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    height: 180px;
+    width: auto;
+}
