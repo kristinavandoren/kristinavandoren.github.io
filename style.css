@@ -1,11 +1,11 @@
-h1, h3, p{
+h1, h3, p, h6{
 text-align: center;
 }
 h3{
   color: red;
 }
 h1{
-  text-shadow: 2px 2px #66999;
+  text-shadow: 2px 2px #669999;
 }
 body{
   background-color: #e6ffff;
