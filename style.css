@@ -4,6 +4,9 @@ text-align: center;
 h3{
   color: red;
 }
+p{
+  font-style: italic;
+}
 h1{
   text-shadow: 2px 2px #669999;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
