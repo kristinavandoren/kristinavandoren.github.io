@@ -17,7 +17,7 @@ body{
 img {
     margin: 5px;
     border: 1px solid #ccc;
-    float: left;
+    float: right;
     height: 180px;
     width: auto;
 }
